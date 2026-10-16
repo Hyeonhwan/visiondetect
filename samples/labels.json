@@ -1,0 +1,296 @@
+{
+  "crazing_241.jpg": {
+    "kind": "crazing",
+    "boxes": [
+      {
+        "kind": "crazing",
+        "xyxy": [
+          42,
+          124,
+          183,
+          184
+        ]
+      },
+      {
+        "kind": "crazing",
+        "xyxy": [
+          38,
+          9,
+          188,
+          84
+        ]
+      },
+      {
+        "kind": "crazing",
+        "xyxy": [
+          1,
+          65,
+          172,
+          156
+        ]
+      }
+    ]
+  },
+  "crazing_242.jpg": {
+    "kind": "crazing",
+    "boxes": [
+      {
+        "kind": "crazing",
+        "xyxy": [
+          36,
+          4,
+          184,
+          55
+        ]
+      },
+      {
+        "kind": "crazing",
+        "xyxy": [
+          64,
+          76,
+          181,
+          168
+        ]
+      },
+      {
+        "kind": "crazing",
+        "xyxy": [
+          17,
+          128,
+          196,
+          199
+        ]
+      }
+    ]
+  },
+  "inclusion_241.jpg": {
+    "kind": "inclusion",
+    "boxes": [
+      {
+        "kind": "inclusion",
+        "xyxy": [
+          126,
+          76,
+          140,
+          115
+        ]
+      },
+      {
+        "kind": "inclusion",
+        "xyxy": [
+          18,
+          124,
+          36,
+          170
+        ]
+      }
+    ]
+  },
+  "inclusion_242.jpg": {
+    "kind": "inclusion",
+    "boxes": [
+      {
+        "kind": "inclusion",
+        "xyxy": [
+          122,
+          34,
+          138,
+          85
+        ]
+      },
+      {
+        "kind": "inclusion",
+        "xyxy": [
+          97,
+          91,
+          137,
+          158
+        ]
+      }
+    ]
+  },
+  "patches_241.jpg": {
+    "kind": "patches",
+    "boxes": [
+      {
+        "kind": "patches",
+        "xyxy": [
+          71,
+          41,
+          125,
+          177
+        ]
+      }
+    ]
+  },
+  "patches_242.jpg": {
+    "kind": "patches",
+    "boxes": [
+      {
+        "kind": "patches",
+        "xyxy": [
+          7,
+          37,
+          85,
+          157
+        ]
+      },
+      {
+        "kind": "patches",
+        "xyxy": [
+          103,
+          92,
+          165,
+          135
+        ]
+      },
+      {
+        "kind": "patches",
+        "xyxy": [
+          147,
+          1,
+          194,
+          55
+        ]
+      }
+    ]
+  },
+  "pitted_surface_241.jpg": {
+    "kind": "pitted_surface",
+    "boxes": [
+      {
+        "kind": "pitted_surface",
+        "xyxy": [
+          6,
+          17,
+          166,
+          200
+        ]
+      }
+    ]
+  },
+  "pitted_surface_242.jpg": {
+    "kind": "pitted_surface",
+    "boxes": [
+      {
+        "kind": "pitted_surface",
+        "xyxy": [
+          1,
+          18,
+          89,
+          188
+        ]
+      },
+      {
+        "kind": "pitted_surface",
+        "xyxy": [
+          61,
+          1,
+          200,
+          177
+        ]
+      }
+    ]
+  },
+  "rolled-in_scale_241.jpg": {
+    "kind": "rolled-in_scale",
+    "boxes": [
+      {
+        "kind": "rolled-in_scale",
+        "xyxy": [
+          62,
+          3,
+          156,
+          100
+        ]
+      },
+      {
+        "kind": "rolled-in_scale",
+        "xyxy": [
+          53,
+          104,
+          155,
+          196
+        ]
+      }
+    ]
+  },
+  "rolled-in_scale_242.jpg": {
+    "kind": "rolled-in_scale",
+    "boxes": [
+      {
+        "kind": "rolled-in_scale",
+        "xyxy": [
+          38,
+          71,
+          132,
+          197
+        ]
+      },
+      {
+        "kind": "rolled-in_scale",
+        "xyxy": [
+          16,
+          11,
+          125,
+          116
+        ]
+      }
+    ]
+  },
+  "scratches_241.jpg": {
+    "kind": "scratches",
+    "boxes": [
+      {
+        "kind": "scratches",
+        "xyxy": [
+          1,
+          25,
+          199,
+          50
+        ]
+      },
+      {
+        "kind": "scratches",
+        "xyxy": [
+          1,
+          106,
+          161,
+          136
+        ]
+      }
+    ]
+  },
+  "scratches_242.jpg": {
+    "kind": "scratches",
+    "boxes": [
+      {
+        "kind": "scratches",
+        "xyxy": [
+          7,
+          35,
+          108,
+          52
+        ]
+      },
+      {
+        "kind": "scratches",
+        "xyxy": [
+          82,
+          156,
+          199,
+          171
+        ]
+      },
+      {
+        "kind": "inclusion",
+        "xyxy": [
+          2,
+          169,
+          27,
+          195
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "total": 240,
+  "split_counts": {
+    "train": 144,
+    "val": 36,
+    "test": 60
+  },
+  "class_split_counts": {
+    "crazing": {
+      "train": 24,
+      "val": 6,
+      "test": 10
+    },
+    "inclusion": {
+      "train": 24,
+      "val": 6,
+      "test": 10
+    },
+    "patches": {
+      "train": 24,
+      "val": 6,
+      "test": 10
+    },
+    "pitted_surface": {
+      "train": 24,
+      "val": 6,
+      "test": 10
+    },
+    "rolled-in_scale": {
+      "train": 24,
+      "val": 6,
+      "test": 10
+    },
+    "scratches": {
+      "train": 24,
+      "val": 6,
+      "test": 10
+    }
+  },
+  "box_counts": {
+    "crazing": 107,
+    "patches": 118,
+    "inclusion": 149,
+    "pitted_surface": 75,
+    "rolled-in_scale": 86,
+    "scratches": 71
+  },
+  "boxes_per_image": {
+    "1": 51,
+    "2": 85,
+    "4": 30,
+    "3": 58,
+    "5": 10,
+    "6": 3,
+    "7": 2,
+    "9": 1
+  },
+  "image_size": [
+    200,
+    200
+  ]
+}

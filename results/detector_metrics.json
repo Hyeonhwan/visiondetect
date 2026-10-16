@@ -1,0 +1,18 @@
+{
+  "model": "YOLOv8n (COCO 사전학습 → NEU 미세조정)",
+  "image_size": 224,
+  "epochs_run": 90,
+  "test_map50": 0.480897692186081,
+  "test_map50_95": 0.19852482940098615,
+  "test_precision": 0.5373624097461585,
+  "test_recall": 0.4594781116520246,
+  "per_class_ap50": {
+    "crazing": 0.3502327355257803,
+    "inclusion": 0.5696758035557892,
+    "patches": 0.8046265183956333,
+    "pitted_surface": 0.3687754719004719,
+    "rolled-in_scale": 0.2332037591279656,
+    "scratches": 0.5588718646108457
+  },
+  "train_seconds": 290.37403740000445
+}
